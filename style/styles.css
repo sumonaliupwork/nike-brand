@@ -1,0 +1,51 @@
+ 
+ header{
+    background: #FFF9F4;
+ }
+ .top-menu ul li a{
+     font-size: 18px;
+ }
+ .shope-detail {
+    padding-top: 50px;
+    width: 350px; 
+}
+
+.shope-detail h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.color-orange{
+    color: orange;
+}
+.cardImg{
+    border:10px solid white;
+    border-radius: 20px;
+    transition: transform .5s; 
+
+}
+.cardImg:hover{
+    transform: scale(1.1);
+}
+.formalImg{
+    transition: transform .5s;
+}
+.formalImg:hover{
+    transform: scale(1.1);
+}
+.perShoes {
+    width: 515px;
+    transition:transform .5s;
+}
+.perShoes:hover{
+    transform: scale(1.1);
+    cursor: context-menu;
+}
+
+.perShoes img {
+    margin: 5px 20px;
+}
+
+.perShoes p {
+    line-height: 20px;
+    width: 310px;
+}
