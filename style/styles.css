@@ -38,7 +38,7 @@
 }
 .perShoes:hover{
     transform: scale(1.1);
-    cursor: context-menu;
+    cursor:pointer;
 }
 
 .perShoes img {
